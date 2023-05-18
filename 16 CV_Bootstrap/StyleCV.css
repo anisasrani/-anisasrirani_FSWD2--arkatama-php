@@ -1,0 +1,57 @@
+body{
+font-family: 'Quicksand', sans-serif; 
+}
+
+#header{
+	height : 100vh;
+	width 100%;
+}
+
+.header-nama h1{
+	color: #fff;
+	position:absolute;
+	width:212px;
+	height:94px;
+	left:330px;
+	top:145px;
+	margin-bottom:10px;
+	font-size:80px;
+}
+
+.header-nama p{
+	color: #FF8303;
+	font-size: 35px;
+	position:absolute;
+	width:365px;
+	height:99px;
+	left:330px;
+	top:195px;
+	margin-top:5px;
+	font-size:80px;
+}
+
+.header-nama h6{
+	color: #F0E3CA;
+	font-size: 10px;
+	position:absolute;
+	width:95px;
+	left:330px;
+	top:320px;
+	line-height:20px;
+	font-weight:600;
+}
+.button-lg-primary {
+	color:white;
+	background-color:#A35709;
+	width:135px;
+	height:30px;
+	border:none;
+	align:center;
+	margin-top:10px;
+	margin-bottom:20px;
+	font-variant:bold;
+}
+
+.fa-brands{ 
+color: #FFFFFF; 
+}
